@@ -5,7 +5,7 @@
 <h4>buscando oportunidade para fazer parte de desenvolvimento Web</h4>
 <h4>
 <p> entre em contato através: </p>
-  <a href="https://instagram.com/kaicastilho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <a href="https://instagram.com/kaicastilho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:kaiqueacastilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
