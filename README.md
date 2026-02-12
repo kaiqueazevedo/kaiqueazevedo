@@ -34,7 +34,7 @@ Experiência em:
 
 ---
 
-## Projetos em Destaque
+## Principais Projetos
 
 ###  RPA Web Automation – Process Optimization
 Automação profissional desenvolvida em Python com Selenium para otimizar processos operacionais em sistema web corporativo.  
