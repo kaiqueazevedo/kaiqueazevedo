@@ -75,7 +75,7 @@ Sistema de controle de estoque em Python.
 
 ##  Contato
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
   </a>
@@ -85,8 +85,5 @@ Sistema de controle de estoque em Python.
   </a>
 </p>
 
----
-
-## ⚡ Objetivo
-
+## Objetivo
 Atuar como Desenvolvedor Backend Python / Full Stack, criando soluções escaláveis, APIs REST e automações inteligentes, evoluindo profissionalmente em projetos desafiadores.
