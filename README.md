@@ -39,7 +39,7 @@ Atuar como Desenvolvedor Backend Python / Full Stack, construindo APIs escaláve
 
 <p align="left">
   <!-- WhatsApp -->
-  <a href="https://wa.me/5511984372401" target="_blank">
+  <a href="https://wa.me/+5511984372401" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="30" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;&nbsp;
