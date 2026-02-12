@@ -3,31 +3,31 @@
   Backend Developer • Python • FastAPI • Automation
 </p>
 
-<p align="center">
+<p align="left">
 Backend focado em desenvolvimento de APIs REST com <b>FastAPI</b>, integração com bancos de dados relacionais e automação de processos com <b>Python e Selenium</b>.
 </p>
 
-<p align="center">
+<p align="left">
 Experiência em CRUD completo, integração front-end/back-end, containerização com Docker e RPAs corporativos.
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🤖 RPA Web Automation – Process Optimization
+### RPA Web Automation – Process Optimization
 Automação em Python com Selenium que reduz tarefas manuais e padroniza processos web corporativos.  
 🔗 [Repositório](https://github.com/kaiqueazevedo/Automation_rpa_ndi)
 
-### 💈 Barbearia System
+### Barbearia System
 Sistema Full-Stack: FastAPI + React para gestão de agendamentos, serviços e financeiro.  
 🔗 [Repositório](https://github.com/kaiqueazevedo/Barbearia_System)
 
-### 📊 React Costs Dashboard
+###  React Costs Dashboard
 Dashboard de controle de custos desenvolvido com React para análise visual de dados.  
 🔗 [Repositório](https://github.com/kaiqueazevedo/Projeto_custos_react)
 
-### 🌐 Node + MongoDB APIs
+### Node + MongoDB APIs
 APIs RESTful com Node.js, Express e MongoDB usando Mongoose para CRUD completo.  
 🔗 [node-mongo-app](https://github.com/kaiqueazevedo/node-mongo-app)  
 🔗 [express-mongo-crud](https://github.com/kaiqueazevedo/express-mongo-crud)  
@@ -47,9 +47,9 @@ Sistema de controle de estoque em Python.
 
 ---
 
-## 🛠 Tecnologias
+##  Tecnologias
 
-<p align="center">
+<p align="left">
 <b>Backend</b><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28"/> 
@@ -73,7 +73,7 @@ Sistema de controle de estoque em Python.
 
 ---
 
-## 📬 Contato
+##  Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/" target="_blank">
