@@ -1,41 +1,61 @@
-  Olá, eu sou o Kaique Azevedo
+# 👋 Olá, eu sou o Kaique Azevedo
 
 💻 Desenvolvedor Backend com foco em Python  
-🚀 Experiência em automação com Selenium  
-🌐 Full Stack com FastAPI + React  
+🚀 Especialista em automação com Selenium  
+🌐 Experiência em APIs REST com FastAPI  
+
 ---
-## Tecnologias Principais
+
+## 🛠️ Stack Principal
 
 ### 🔹 Backend
-- NodeJs
 - Python
 - FastAPI
 - SQLAlchemy
-- SQLite
-- MySQL
-
-### 🔹 Frontend
-- React
-- HTML / CSS
+- SQLite / MySQL
+- APIs REST
 
 ### 🔹 Automação
 - Selenium
-- Manipulação de arquivos (CSV / TXT)
 - RPAs para emissão de NF e boletos
----
-## Projetos em Destaque
+- Manipulação de arquivos (CSV / TXT)
+- Processamento de dados
 
-- 💈 Barbearia System → Sistema Full Stack (FastAPI + React)
-- 🤖 Automação com Selenium → RPAs para sistemas web
-- 📊 Manipulação de Dados com Python
+### 🔹 Frontend (Integração)
+- React
+- HTML / CSS
+
 ---
-##  Objetivo
+
+## 📌 Projetos em Destaque
+
+- 💈 **Barbearia System**  
+  Sistema Full Stack com FastAPI + React, CRUD completo e integração frontend/backend.
+
+- 🤖 **Automação com Selenium**  
+  Desenvolvimento de RPAs para automação de sistemas web, emissão de notas fiscais e boletos.
+
+- 📊 **Manipulação de Dados com Python**  
+  Processamento e tratamento de arquivos estruturados.
+
+---
+
+## 🎯 Objetivo
 
 Atuar como Desenvolvedor Backend Python, contribuindo com soluções escaláveis, APIs REST e automações inteligentes.
-<p> entre em contato através: </p>
-<!--   <a href="https://instagram.com/kaicastilho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:kaiqueacastilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+---
+
+## 📬 Contato
+
+<a href="mailto:kaiqueacastilho@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 
 <br>
   <h3> Tecnologias</h3>
