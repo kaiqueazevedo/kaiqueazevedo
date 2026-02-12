@@ -7,7 +7,7 @@
 
 ## 🔹 Tecnologias & Ferramentas
 
-<p align="center">
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28"/> 
@@ -36,7 +36,7 @@
 
 ##  Contato
 
-<p align="center">
+<p align="left">
   <a href="mailto:kaiqueacastilho@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30"/>
   </a>
