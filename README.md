@@ -1,7 +1,44 @@
+  Olá, eu sou o Kaique Azevedo
 
-## Olá, Eu sou Kaique!
+💻 Desenvolvedor Backend com foco em Python  
+🚀 Experiência em automação com Selenium  
+🌐 Full Stack com FastAPI + React  
 
-Profissional de Tecnologia com experiência em Suporte Técnico, Automação (RPA) e Desenvolvimento Web (Node.js/Python). Atuo criando soluções que reduzem trabalho manual, aumentam produtividade e melhoram a eficiência dos processos.Experiência prática com:Python, Selenium, Pandas, PyAutoGUI, OpenPyXLAutomação de processos operacionais (RPA)Web Scraping e manipulação de dadosNode.js, Express, APIs RESTSQL, MySQL e Power BIEntrego automações ponta a ponta: análise → desenvolvimento → testes → implantação → acompanhamento.Tenho facilidade em aprender, resolver problemas e transformar processos manuais em fluxos automatizados. Busco oportunidades como Suporte Técnico, RPA, TI Operacional e Desenvolvimento Web, onde eu possa aplicar minhas habilidades e gerar valor real.Palavras-chave: Python, Node.js, RPA, Automação de Processos, Selenium, Suporte Técnico, SQL, Power BI, Web Scraping, ETL.
+---
+
+## Tecnologias Principais
+
+### 🔹 Backend
+- Python
+- FastAPI
+- SQLAlchemy
+- SQLite
+- MySQL
+
+### 🔹 Frontend
+- React
+- TypeScript
+- Vite
+- HTML / CSS
+
+### 🔹 Automação
+- Selenium
+- Manipulação de arquivos (CSV / TXT)
+- RPAs para emissão de NF e boletos
+
+---
+
+## Projetos em Destaque
+
+- 💈 Barbearia System → Sistema Full Stack (FastAPI + React)
+- 🤖 Automação com Selenium → RPAs para sistemas web
+- 📊 Manipulação de Dados com Python
+
+---
+
+##  Objetivo
+
+Atuar como Desenvolvedor Backend Python, contribuindo com soluções escaláveis, APIs REST e automações inteligentes.
 <p> entre em contato através: </p>
 <!--   <a href="https://instagram.com/kaicastilho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:kaiqueacastilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
