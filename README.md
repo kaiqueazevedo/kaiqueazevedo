@@ -1,60 +1,42 @@
-# 👋 Kaique Azevedo
+# Kaique Azevedo
 
-💻 Desenvolvedor Backend Python  
-🚀 APIs REST com FastAPI  
-🤖 Automação com Selenium  
+Backend Developer | Python | FastAPI | Automation
 
 ---
 
-## 🛠️ Stack Principal
+Desenvolvedor Backend com foco em construção de APIs REST,
+automação de processos e integração de sistemas.
 
-- Python
-- FastAPI
-- SQLAlchemy
-- SQLite / MySQL
-- Selenium
-- React (integração frontend)
-
----
-
-## 📌 Projeto em Destaque
-
-💈 **Barbearia System**  
-Sistema Full Stack com FastAPI + React, CRUD completo e integração frontend/backend.
+Experiência prática com:
+- Desenvolvimento de APIs com FastAPI
+- Modelagem e integração com banco de dados
+- Automação de sistemas web com Selenium
+- Processamento e manipulação de dados
 
 ---
 
-## 🎯 Objetivo
+## Tech Stack
 
-Atuar como Desenvolvedor Backend Python, desenvolvendo APIs, automações e soluções escaláveis.
+**Backend**
+Python • FastAPI • SQLAlchemy • SQLite • MySQL
+
+**Automation**
+Selenium • RPA • Web Scraping • Manipulação de Arquivos
+
+**Frontend (Integração)**
+React • HTML • CSS
 
 ---
 
-📬 **Contato**  
-[LinkedIn](https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/)  
-✉️ kaiqueacastilho@gmail.com
+## Featured Project
 
-  <h3> Tecnologias</h3>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="kaique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="kaique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="kaique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="kaique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="kaique-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="kaique-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img  align="center" alt="kaique-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img  align="center" alt="kaique-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img  align="center" alt="kaique-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-          
+💈 Barbearia System  
+Sistema Full Stack com FastAPI + React, arquitetura modular e CRUD completo.
 
-  
- ![snake animation](https://github.com/kaiqueazevedo/kaiqueazevedo/blob/output/github-contribution-grid-snake.svg)
-</div>
+---
 
+## Contact
 
-  
-
- 
-  
+LinkedIn: linkedin.com/in/kaique-azevedo-castilho-319b90214  
+Email: kaiqueacastilho@gmail.com
 
