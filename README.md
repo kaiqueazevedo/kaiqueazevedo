@@ -1,4 +1,4 @@
-<h2 align="center">Kaique Azevedo</h2>
+<h1 align="center">Kaique Azevedo</h1>
 
 <p align="left">
 Backend Developer • Python • FastAPI • Automation
