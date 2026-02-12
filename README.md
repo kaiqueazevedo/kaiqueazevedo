@@ -29,6 +29,7 @@
 <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" height="28"/>
 </p>
 ---
+
 ## Objetivo
 
 Atuar como Desenvolvedor Backend Python / Full Stack, construindo APIs escaláveis, integrações robustas e automações inteligentes, agregando valor a projetos reais.
