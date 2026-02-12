@@ -35,12 +35,12 @@
 Atuar como Desenvolvedor Backend Python / Full Stack, construindo APIs escaláveis, integrações robustas e automações inteligentes, agregando valor a projetos reais.
 
 
-## Entre em Contato
+## 📬Entre em Contato
 
 <p align="left">
   <!-- WhatsApp -->
-  <a href="https://wa.me/+5511984372401" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="30" alt="WhatsApp"/>
+  <a href="https://wa.me/5511999999999" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   
