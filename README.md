@@ -21,7 +21,7 @@
 ---
 
 ## Projetos em Destaque
-
+<p align="center">
 | Projeto | Tecnologias | Link |
 |---------|------------|------|
 | **RPA Web Automation** | Python, Selenium | [GitHub](https://github.com/kaiqueazevedo/Automation_rpa_ndi) |
@@ -31,7 +31,7 @@
 | **Google Maps Extractor** | Python | [GitHub](https://github.com/kaiqueazevedo/projeto_google_maps) |
 | **Portfólio Pessoal** | TypeScript, React | [my-portifolio](https://github.com/kaiqueazevedo/my-portifolio) |
 | **Inventory Control** | Python | [Inventory_Control-](https://github.com/kaiqueazevedo/Inventory_Control-) |
-
+</p>
 ---
 
 ##  Contato
