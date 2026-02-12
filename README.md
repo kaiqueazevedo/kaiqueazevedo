@@ -26,7 +26,7 @@ Backend focado em desenvolvimento de APIs REST com **FastAPI**,
 integração com banco de dados relacionais e automação de processos com **Python e Selenium**.
 
 Experiência em:
-- Arquitetura modular
+
 - CRUD completo com persistência em banco
 - Integração frontend/backend
 - Containerização com Docker
