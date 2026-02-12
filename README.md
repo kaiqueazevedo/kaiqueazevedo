@@ -34,20 +34,31 @@ Experiência em:
 
 ---
 
-##  Projetos em Destaque
+## Projetos em Destaque
 
-💈 **Barbearia System**  
-Sistema Full Stack com FastAPI + React, arquitetura organizada em camadas, autenticação e integração completa com banco.  
-🔗 https://github.com/kaiqueazevedo/Barbearia_System  
+###  RPA Web Automation – Process Optimization
+Automação profissional desenvolvida em Python com Selenium para otimizar processos operacionais em sistema web corporativo.  
+Redução de tarefas manuais, padronização de fluxo e aumento de produtividade.
 
-📍 **Projeto Google Maps**  
-Integração com API externa para manipulação e visualização de localização.  
-🔗 https://github.com/kaiqueazevedo/projeto_google_maps  
+🔗 https://github.com/kaiqueazevedo/Automation_rpa_ndi
 
-🌐 **My Portfolio**  
-Portfólio pessoal para apresentação de projetos e habilidades técnicas.  
-🔗 https://github.com/kaiqueazevedo/my-portifolio  
 
+###  Barbearia System
+Sistema Full Stack com FastAPI + React para gestão de agendamentos e serviços.
+
+🔗 https://github.com/kaiqueazevedo/Barbearia_System
+
+
+### 📍 Google Maps Data Extractor
+Automação para coleta estruturada de dados utilizando Python.
+
+🔗 https://github.com/kaiqueazevedo/projeto_google_maps
+
+
+### 📊 React Costs Dashboard
+Dashboard de controle de custos desenvolvido com React.
+
+🔗 https://github.com/kaiqueazevedo/Projeto_custos_react
 ---
 
 ##  Objetivo
