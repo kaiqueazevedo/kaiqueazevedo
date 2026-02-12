@@ -13,7 +13,7 @@ Experiência em CRUD completo, integração front-end/back-end, containerizaçã
 
 ---
 
-##  Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 ### 🤖 RPA Web Automation – Process Optimization
 Automação em Python com Selenium que reduz tarefas manuais e padroniza processos web corporativos.  
@@ -27,13 +27,13 @@ Sistema Full-Stack: FastAPI + React para gestão de agendamentos, serviços e fi
 Dashboard de controle de custos desenvolvido com React para análise visual de dados.  
 🔗 [Repositório](https://github.com/kaiqueazevedo/Projeto_custos_react)
 
-###  Node + MongoDB APIs
+### 🌐 Node + MongoDB APIs
 APIs RESTful com Node.js, Express e MongoDB usando Mongoose para CRUD completo.  
 🔗 [node-mongo-app](https://github.com/kaiqueazevedo/node-mongo-app)  
 🔗 [express-mongo-crud](https://github.com/kaiqueazevedo/express-mongo-crud)  
 🔗 [insert_data_service_node](https://github.com/kaiqueazevedo/insert_data_service_node)
 
-###  Google Maps Data Extractor
+### 📍 Google Maps Data Extractor
 Automação em Python para coleta de dados do Google Maps.  
 🔗 [Repositório](https://github.com/kaiqueazevedo/projeto_google_maps)
 
@@ -41,13 +41,13 @@ Automação em Python para coleta de dados do Google Maps.
 Portfólio em TypeScript mostrando projetos front-end.  
 🔗 [my-portifolio](https://github.com/kaiqueazevedo/my-portifolio)
 
-###  Inventory Control
+### 📦 Inventory Control
 Sistema de controle de estoque em Python.  
 🔗 [Inventory_Control-](https://github.com/kaiqueazevedo/Inventory_Control-)
 
 ---
 
-##  Tecnologias
+## 🛠 Tecnologias
 
 <p align="center">
 <b>Backend</b><br>
@@ -73,7 +73,7 @@ Sistema de controle de estoque em Python.
 
 ---
 
-##  Contato
+## 📬 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/" target="_blank">
