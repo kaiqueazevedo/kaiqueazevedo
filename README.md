@@ -3,50 +3,46 @@
 <p align="left">
 Backend Developer • Python • FastAPI • Automation
 </p>
----
 
 Backend focado em desenvolvimento de APIs REST com **FastAPI**, 
 integração com banco de dados relacionais e automação de processos com **Python e Selenium**.
 
 Experiência em:
-
 - CRUD completo com persistência em banco
 - Integração frontend/backend
 - Containerização com Docker
 - Automação e RPA para sistemas web
 
 ---
-
-
 ##  Projetos em Destaque
 
-###  RPA Web Automation – Process Optimization
+##  RPA Web Automation – Process Optimization
 Automação em Python com Selenium para reduzir tarefas manuais e padronizar processos web corporativos.  
 🔗 [Repositório](https://github.com/kaiqueazevedo/Automation_rpa_ndi)
 
-###  Barbearia System
+##  Barbearia System
 Sistema Full-Stack: FastAPI + React para gestão de agendamentos, serviços e financeiro.  
 🔗 [Repositório](https://github.com/kaiqueazevedo/Barbearia_System)
 
-###  React Costs Dashboard
+##  React Costs Dashboard
 Dashboard de controle de custos desenvolvido com React.  
 🔗 [Repositório](https://github.com/kaiqueazevedo/Projeto_custos_react)
 
-###  Node + MongoDB APIs
+##  Node + MongoDB APIs
 API RESTful com Node.js, Express e MongoDB usando Mongoose.  
 🔗 [node-mongo-app](https://github.com/kaiqueazevedo/node-mongo-app)  
 🔗 [express-mongo-crud](https://github.com/kaiqueazevedo/express-mongo-crud)  
 🔗 [insert_data_service_node](https://github.com/kaiqueazevedo/insert_data_service_node)
 
-###  Google Maps Data Extractor
+##  Google Maps Data Extractor
 Automação em Python para coleta de dados do Google Maps.  
 🔗 [Repositório](https://github.com/kaiqueazevedo/projeto_google_maps)
 
-###  Portfólio Pessoal
+##  Portfólio Pessoal
 Meu portfólio em TypeScript mostrando projetos front-end.  
 🔗 [my-portifolio](https://github.com/kaiqueazevedo/my-portifolio)
 
-###  Inventory Control
+##  Inventory Control
 Sistema de controle de estoque em Python.  
 🔗 [Inventory_Control-](https://github.com/kaiqueazevedo/Inventory_Control-)
 
