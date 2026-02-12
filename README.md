@@ -39,19 +39,19 @@ Atuar como Desenvolvedor Backend Python / Full Stack, construindo APIs escaláve
 
 <p align="left">
   <!-- WhatsApp -->
-  <a href="https://wa.me/5511984372401" target="_blank">
+  <a href="https://wa.me/5511984372401" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/" target="_blank">
+  <a href="https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   
   <!-- Gmail -->
-  <a href="mailto:kaiqueacastilho@gmail.com">
+  <a href="mailto:kaiqueacastilho@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30" alt="Gmail"/>
   </a>
 </p>
