@@ -20,19 +20,55 @@
 
 ---
 
-## Projetos em Destaque
-<p align="center">
-| Projeto | Tecnologias | Link |
-|---------|------------|------|
-| **RPA Web Automation** | Python, Selenium | [GitHub](https://github.com/kaiqueazevedo/Automation_rpa_ndi) |
-| **Barbearia System** | FastAPI, React, Python | [GitHub](https://github.com/kaiqueazevedo/Barbearia_System) |
-| **React Costs Dashboard** | React, JavaScript | [GitHub](https://github.com/kaiqueazevedo/Projeto_custos_react) |
-| **Node + MongoDB APIs** | Node.js, Express, MongoDB | [node-mongo-app](https://github.com/kaiqueazevedo/node-mongo-app) |
-| **Google Maps Extractor** | Python | [GitHub](https://github.com/kaiqueazevedo/projeto_google_maps) |
-| **Portfólio Pessoal** | TypeScript, React | [my-portifolio](https://github.com/kaiqueazevedo/my-portifolio) |
-| **Inventory Control** | Python | [Inventory_Control-](https://github.com/kaiqueazevedo/Inventory_Control-) |
-</p>
----
+## 🚀 Projetos em Destaque
+
+<table width="100%">
+  <tr>
+    <td>
+      <b>🤖 RPA Web Automation – Process Optimization</b><br>
+      Automação em Python com Selenium que reduz tarefas manuais e padroniza processos web corporativos.<br>
+      🔗 <a href="https://github.com/kaiqueazevedo/Automation_rpa_ndi">Repositório</a>
+    </td>
+    <td>
+      <b>💈 Barbearia System</b><br>
+      Sistema Full-Stack: FastAPI + React para gestão de agendamentos, serviços e financeiro.<br>
+      🔗 <a href="https://github.com/kaiqueazevedo/Barbearia_System">Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>📊 React Costs Dashboard</b><br>
+      Dashboard de controle de custos desenvolvido com React.<br>
+      🔗 <a href="https://github.com/kaiqueazevedo/Projeto_custos_react">Repositório</a>
+    </td>
+    <td>
+      <b>🌐 Node + MongoDB APIs</b><br>
+      APIs RESTful com Node.js, Express e MongoDB usando Mongoose para CRUD completo.<br>
+      🔗 <a href="https://github.com/kaiqueazevedo/node-mongo-app">node-mongo-app</a><br>
+      🔗 <a href="https://github.com/kaiqueazevedo/express-mongo-crud">express-mongo-crud</a><br>
+      🔗 <a href="https://github.com/kaiqueazevedo/insert_data_service_node">insert_data_service_node</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>📍 Google Maps Data Extractor</b><br>
+      Automação em Python para coleta de dados do Google Maps.<br>
+      🔗 <a href="https://github.com/kaiqueazevedo/projeto_google_maps">Repositório</a>
+    </td>
+    <td>
+      <b>🖥 Portfólio Pessoal</b><br>
+      Portfólio em TypeScript mostrando projetos front-end.<br>
+      🔗 <a href="https://github.com/kaiqueazevedo/my-portifolio">my-portifolio</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>📦 Inventory Control</b><br>
+      Sistema de controle de estoque em Python.<br>
+      🔗 <a href="https://github.com/kaiqueazevedo/Inventory_Control-">Inventory_Control-</a>
+    </td>
+  </tr>
+</table>
 
 ##  Contato
 
