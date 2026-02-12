@@ -17,26 +17,35 @@ Experiência prática com:
 
 ## Tech Stack
 
-**Backend**
-Python • FastAPI • SQLAlchemy • SQLite • MySQL
+**Backend**  
+Python • FastAPI • SQLAlchemy • SQLite • MySQL  
 
-**Automation**
-Selenium • RPA • Web Scraping • Manipulação de Arquivos
+**Automation**  
+Selenium • RPA • Web Scraping • Manipulação de Arquivos  
 
-**Frontend (Integração)**
-React • HTML • CSS
+**Frontend (Integração)**  
+React • HTML • CSS  
 
 ---
 
-## Featured Project
+## Featured Projects
 
-💈 Barbearia System  
-Sistema Full Stack com FastAPI + React, arquitetura modular e CRUD completo.
+💈 **Barbearia System**  
+Sistema Full Stack com FastAPI + React, arquitetura modular e CRUD completo.  
+🔗 https://github.com/kaiqueazevedo/Barbearia_System  
+
+📍 **Projeto Google Maps**  
+Integração com API do Google Maps para visualização e manipulação de localização.  
+🔗 https://github.com/kaiqueazevedo/projeto_google_maps  
+
+🌐 **My Portfolio**  
+Portfólio pessoal desenvolvido para apresentação de projetos e habilidades técnicas.  
+🔗 https://github.com/kaiqueazevedo/my-portifolio  
 
 ---
 
 ## Contact
 
-LinkedIn: linkedin.com/in/kaique-azevedo-castilho-319b90214  
+LinkedIn: https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214  
 Email: kaiqueacastilho@gmail.com
 
