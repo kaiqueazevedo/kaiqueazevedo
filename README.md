@@ -27,12 +27,15 @@ Portfólio pessoal para apresentação de projetos e habilidades técnicas.
 
 ## 📬 Contact
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn"/>
   </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:kaiqueacastilho@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="32" alt="Gmail"/>
   </a>
 </p>
 
