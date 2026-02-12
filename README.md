@@ -1,6 +1,6 @@
-<h2 align="center">Kaique Azevedo</h2>
+<h2 align="right">Kaique Azevedo</h2>
 
-<p align="center">
+<p align="right">
 Backend Developer • Python • FastAPI • Automation
 </p>
 
@@ -15,7 +15,7 @@ Backend focado em APIs REST, automação de processos e integração de sistemas
 
 ---
 
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28"/>
   </a>
@@ -27,7 +27,7 @@ Backend focado em APIs REST, automação de processos e integração de sistemas
 
 ## Tecnologias
 
-<p align="center">
+<p align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28"/>
