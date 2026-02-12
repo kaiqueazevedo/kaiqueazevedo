@@ -25,25 +25,20 @@ Portfólio pessoal para apresentação de projetos e habilidades técnicas.
 
 ---
 
-## 📬 Contact
+##  Contact
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
   </a>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
   <a href="mailto:kaiqueacastilho@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="32" alt="Gmail"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30"/>
   </a>
 </p>
 
-
-
 ## Tecnologias dia a dia
 
-<p align="left">
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/>
@@ -52,5 +47,3 @@ Portfólio pessoal para apresentação de projetos e habilidades técnicas.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
 </p>
-</p>
-
