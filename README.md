@@ -1,6 +1,6 @@
 <h2 align="center">Kaique Azevedo</h2>
 
-<p align="center">
+<p align="left">
 Backend Developer • Python • FastAPI • Automation
 </p>
 
@@ -55,8 +55,8 @@ Portfólio pessoal para apresentação de projetos e habilidades técnicas.
 Atuar como Desenvolvedor Backend Python, construindo APIs escaláveis, integrações robustas e automações inteligentes.
 
 ---
-
-<p align="center">
+## Entre em contato
+<p align="left">
   <a href="https://www.linkedin.com/in/kaique-azevedo-castilho-319b90214/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
   </a>
