@@ -3,6 +3,58 @@
 <p align="left">
 Backend Developer • Python • FastAPI • Automation
 </p>
+---
+
+Backend focado em desenvolvimento de APIs REST com **FastAPI**, 
+integração com banco de dados relacionais e automação de processos com **Python e Selenium**.
+
+Experiência em:
+
+- CRUD completo com persistência em banco
+- Integração frontend/backend
+- Containerização com Docker
+- Automação e RPA para sistemas web
+
+---
+
+
+##  Projetos em Destaque
+
+###  RPA Web Automation – Process Optimization
+Automação em Python com Selenium para reduzir tarefas manuais e padronizar processos web corporativos.  
+🔗 [Repositório](https://github.com/kaiqueazevedo/Automation_rpa_ndi)
+
+###  Barbearia System
+Sistema Full-Stack: FastAPI + React para gestão de agendamentos, serviços e financeiro.  
+🔗 [Repositório](https://github.com/kaiqueazevedo/Barbearia_System)
+
+###  React Costs Dashboard
+Dashboard de controle de custos desenvolvido com React.  
+🔗 [Repositório](https://github.com/kaiqueazevedo/Projeto_custos_react)
+
+###  Node + MongoDB APIs
+API RESTful com Node.js, Express e MongoDB usando Mongoose.  
+🔗 [node-mongo-app](https://github.com/kaiqueazevedo/node-mongo-app)  
+🔗 [express-mongo-crud](https://github.com/kaiqueazevedo/express-mongo-crud)  
+🔗 [insert_data_service_node](https://github.com/kaiqueazevedo/insert_data_service_node)
+
+###  Google Maps Data Extractor
+Automação em Python para coleta de dados do Google Maps.  
+🔗 [Repositório](https://github.com/kaiqueazevedo/projeto_google_maps)
+
+###  Portfólio Pessoal
+Meu portfólio em TypeScript mostrando projetos front-end.  
+🔗 [my-portifolio](https://github.com/kaiqueazevedo/my-portifolio)
+
+###  Inventory Control
+Sistema de controle de estoque em Python.  
+🔗 [Inventory_Control-](https://github.com/kaiqueazevedo/Inventory_Control-)
+
+##  Objetivo
+
+Atuar como Desenvolvedor Backend Python, construindo APIs escaláveis, integrações robustas e automações inteligentes.
+
+## Tecnologias dia a dia
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/>
@@ -19,51 +71,6 @@ Backend Developer • Python • FastAPI • Automation
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28"/>
 </p>
-
----
-
-Backend focado em desenvolvimento de APIs REST com **FastAPI**, 
-integração com banco de dados relacionais e automação de processos com **Python e Selenium**.
-
-Experiência em:
-
-- CRUD completo com persistência em banco
-- Integração frontend/backend
-- Containerização com Docker
-- Automação e RPA para sistemas web
-
----
-
-## Principais Projetos
-
-###  RPA Web Automation – Process Optimization
-Automação profissional desenvolvida em Python com Selenium para otimizar processos operacionais em sistema web corporativo.  
-Redução de tarefas manuais, padronização de fluxo e aumento de produtividade.
-
-🔗 https://github.com/kaiqueazevedo/Automation_rpa_ndi
-
-
-###  Barbearia System
-Sistema Full Stack com FastAPI + React para gestão de agendamentos e serviços.
-
-🔗 https://github.com/kaiqueazevedo/Barbearia_System
-
-
-### 📍 Google Maps Data Extractor
-Automação para coleta estruturada de dados utilizando Python.
-
-🔗 https://github.com/kaiqueazevedo/projeto_google_maps
-
-
-### 📊 React Costs Dashboard
-Dashboard de controle de custos desenvolvido com React.
-
-🔗 https://github.com/kaiqueazevedo/Projeto_custos_react
----
-
-##  Objetivo
-
-Atuar como Desenvolvedor Backend Python, construindo APIs escaláveis, integrações robustas e automações inteligentes.
 
 ---
 ## Entre em contato
