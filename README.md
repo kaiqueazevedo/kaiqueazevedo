@@ -3,12 +3,11 @@
 💻 Desenvolvedor Backend com foco em Python  
 🚀 Experiência em automação com Selenium  
 🌐 Full Stack com FastAPI + React  
-
 ---
-
 ## Tecnologias Principais
 
 ### 🔹 Backend
+- NodeJs
 - Python
 - FastAPI
 - SQLAlchemy
@@ -17,25 +16,19 @@
 
 ### 🔹 Frontend
 - React
-- TypeScript
-- Vite
 - HTML / CSS
 
 ### 🔹 Automação
 - Selenium
 - Manipulação de arquivos (CSV / TXT)
 - RPAs para emissão de NF e boletos
-
 ---
-
 ## Projetos em Destaque
 
 - 💈 Barbearia System → Sistema Full Stack (FastAPI + React)
 - 🤖 Automação com Selenium → RPAs para sistemas web
 - 📊 Manipulação de Dados com Python
-
 ---
-
 ##  Objetivo
 
 Atuar como Desenvolvedor Backend Python, contribuindo com soluções escaláveis, APIs REST e automações inteligentes.
