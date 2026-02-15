@@ -7,7 +7,7 @@
 
 |     Projeto     |     Tecnologias     |     Link     |
 |---------|------------|------|
-| **RPA Web Automation** | Python, Selenium | [GitHub](https://github.com/kaiqueazevedo/Automation_rpa_ndi](https://github.com/kaiqueazevedo/RPA-Automation-Web-Process-Optimization) |
+| **RPA Web Automation** | Python, Selenium | [GitHub](https://github.com/kaiqueazevedo/RPA-Automation-Web-Process-Optimization) |
 | **Barbearia System** | FastAPI, React, Python | [GitHub](https://github.com/kaiqueazevedo/Barbearia_System) |
 | **React Costs Dashboard** | React, JavaScript | [GitHub](https://github.com/kaiqueazevedo/Projeto_custos_react) |
 | **Node + MongoDB APIs** | Node.js, Express, MongoDB | [node-mongo-app](https://github.com/kaiqueazevedo/node-mongo-app) |
